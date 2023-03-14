@@ -22,9 +22,13 @@ Developed by: MAMTHA I
 RegisterNumber:212222230076
 
 a,b=str(input()),str(input())
+
 temp=a
+
 a=b
+
 b=temp
+
 print("Swapped values are:",a,b)
 ## OUTPUT:
 ![model](out.png)
