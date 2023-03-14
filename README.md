@@ -1,9 +1,8 @@
 # Swapping-two-values
-## AIM:
+# AIM:
 To write a python program for swapping of two values
-## EQUIPEMENT'S REQUIRED: 
-PC
-Anaconda - Python 3.7
+# EQUIPEMENT'S REQUIRED: 
+PCAnaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
 Get the two values from the user
@@ -18,10 +17,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+#Program to swap two values.
+Developed by: MAMTHA I
+RegisterNumber:212222230076
 
-
-
-## RESULT:
+a,b=str(input()),str(input())
+temp=a
+a=b
+b=temp
+print("Swapped values are:",a,b)
+## OUTPUT:
+![model](out.png)
+## RESULT: 
 Thus the swapping of two values are successfully executed
 
 
