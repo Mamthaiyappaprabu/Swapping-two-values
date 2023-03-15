@@ -33,7 +33,7 @@ b=temp
 
 print("Swapped values are:",a,b)
 ## OUTPUT:
-![model](out.png)
+![model](ex1.png)
 ## RESULT: 
 Thus the swapping of two values are successfully executed
 
